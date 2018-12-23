@@ -21,14 +21,21 @@ Screenshots
 -------------
 
 
-
+<div>
 <img src="screenshots/10.jpg" height="400" alt="Screenshot"/> 
 
 <br />
+</div>
+
+<div>
 
 <img src="screenshots/20.jpg" height="400" alt="Screenshot"/> 
 
 <br />
+
+</div>
+
+<div>
 
 <img src="screenshots/21.jpg" height="400" alt="Screenshot"/> 
 <img src="screenshots/22.jpg" height="400" alt="Screenshot"/> 
@@ -38,11 +45,17 @@ Screenshots
 <img src="screenshots/26.jpg" height="400" alt="Screenshot"/> 
 <img src="screenshots/27.jpg" height="400" alt="Screenshot"/> 
 
+</div>
+
+<div>
+
 <br />
 
 <img src="screenshots/31.jpg" height="400" alt="Screenshot"/> 
 <img src="screenshots/32.jpg" height="400" alt="Screenshot"/> 
 <img src="screenshots/33.jpg" height="400" alt="Screenshot"/> 
+
+</div>
 
 
 
