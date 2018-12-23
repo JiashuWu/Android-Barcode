@@ -25,6 +25,7 @@ import android.view.MenuItem;
 import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.CalendarView;
+import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Spinner;
 import android.widget.TextView;
@@ -45,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
     private String message = "";
     private String type = "";
     private Button button_generate;
-    private TextInputEditText editText1;
+    private EditText editText1;
     private Spinner type_spinner;
     private ImageView imageView;
     private int size = 660;
@@ -69,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
         message = "";
         type = "QR Code";
         button_generate = (Button) findViewById(R.id.generate_button);
-        editText1 = (TextInputEditText) findViewById(R.id.edittext1);
+        editText1 = (EditText) findViewById(R.id.edittext2);
         type_spinner = (Spinner) findViewById(R.id.type_spinner);
         imageView = (ImageView) findViewById(R.id.image_imageview);
 
