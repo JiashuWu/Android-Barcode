@@ -84,3 +84,9 @@ Todo
 
 (https://github.com/zxing/zxing/wiki/Scanning-From-Web-Pages)
 
+
+Licence
+---------------
+
+MIT License
+
