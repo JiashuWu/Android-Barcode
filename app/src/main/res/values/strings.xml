@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidBarcodeGenerator</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="type_string">
+        <item>QR Code</item>
+        <item>Barcode</item>
+        <item>Data Matrix</item>
+        <item>PDF 417</item>
+        <item>Barcode-39</item>
+        <item>Barcode-93</item>
+        <item>AZTEC</item>
+    </string-array>
+
+    <string name="type_prompt">Select Type</string>
+
+</resources>
