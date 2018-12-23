@@ -4,10 +4,12 @@ Android Barcode Generator Demo
 
 A demo that generates barcodes in Android
 
+
 Introduction
 ------------
 
-This sample demonstrates a barcode generator in Android, which supports various types of barcode such as QR Code, Barcode-128, Data Matrix, PDF-417, Barcode-39, Barcode-93 and AZTEC etc. 
+This sample demonstrates a barcode generator in Android, which supports various types of barcode such as QR Code, Barcode-128, Data Matrix, PDF-417, Barcode-39, Barcode-93 and AZTEC etc. Barcode can be saved as image into the photo gallery. 
+
 
 Pre-requisites
 --------------
@@ -16,6 +18,7 @@ Pre-requisites
 - ZXing Core 3.3.3
 
 (http://repo1.maven.org/maven2/com/google/zxing/core/)
+
 
 Screenshots
 -------------
@@ -29,6 +32,7 @@ Screenshots
 
 <br />
 <br />
+<br />
 
 </div>
 
@@ -38,6 +42,7 @@ Screenshots
 
 <img src="screenshots/20.jpg" height="400" alt="Screenshot"/> 
 
+<br />
 <br />
 <br />
 
@@ -57,17 +62,19 @@ Screenshots
 
 <br />
 <br />
+<br />
 
 </div>
 
 <div>
 
-<p>Save the generated barcode into photo library. </p>
+<p>Save the generated barcode into photo gallery. </p>
 
 <img src="screenshots/31.jpg" height="400" alt="Screenshot"/> 
 <img src="screenshots/32.jpg" height="400" alt="Screenshot"/> 
 <img src="screenshots/33.jpg" height="400" alt="Screenshot"/> 
 
+<br />
 <br />
 <br />
 
@@ -81,6 +88,7 @@ Todo
 
 - Barcode/QR Code scanner
 - Scanning from web pages
+- Image size control dialog
 
 (https://github.com/zxing/zxing/wiki/Scanning-From-Web-Pages)
 
